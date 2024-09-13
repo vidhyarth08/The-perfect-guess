@@ -1,2 +1,4 @@
 # Simple and easy python game
-Enjoy the game!
+The perfect guess number game.
+Enjoy it!
+
